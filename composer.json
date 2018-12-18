@@ -1,0 +1,12 @@
+{
+    "name": "latevaweb/aplazame",
+    "authors": [
+        {
+            "name": "rafa",
+            "email": "rafael@latevaweb.com"
+        }
+    ],
+    "require": {
+        "aplazame/aplazame-api-sdk": "^0.2.2"
+    }
+}

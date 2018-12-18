@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c2e3d129e7e68f65d4020f9562fdca3e",
+    "packages": [
+        {
+            "name": "aplazame/aplazame-api-sdk",
+            "version": "v0.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aplazame/php-sdk.git",
+                "reference": "024ae758e895eaa082a90f6cdbee29dd15750075"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aplazame/php-sdk/zipball/024ae758e895eaa082a90f6cdbee29dd15750075",
+                "reference": "024ae758e895eaa082a90f6cdbee29dd15750075",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">= 5.3"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "1.11.*",
+                "phpunit/phpunit": "^4.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Aplazame\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "description": "Aplazame API SDK",
+            "keywords": [
+                "aplazame"
+            ],
+            "time": "2017-11-22T08:38:37+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
