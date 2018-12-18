@@ -1,5 +1,5 @@
 TESTING
-https://aplazame.com/en/docs/api/making-requests/#test-data
+https://www.northdeco.com/aplazame/index.php?checkout=true
 
 Success	Card	4111 1111 1111 1111
 Not honor	Card	4012 8888 8888 1881
